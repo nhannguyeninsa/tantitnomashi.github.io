@@ -41,6 +41,8 @@ header {
     margin-right: 25%;
     text-align: center;
     line-height: 50px;
+    position: fixed;
+    top:0;
 
 }
 
